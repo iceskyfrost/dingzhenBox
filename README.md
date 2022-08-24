@@ -12,4 +12,4 @@ npm run tauri dev(webview) or npm run dev(网页端)
 
 # 求助
 
-tauri 怎么把mp3文件 build到 msi安装包里?
+tauri怎么那么多bug！！！！！！！！！
